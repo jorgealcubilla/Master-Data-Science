@@ -10,4 +10,4 @@ My broad technical knowledge and professional experience in different industries
 
 Proud of having attended **KSchool** and received a **master´s degree in Data Science**.
 
-Data are my passion!
+**Data are my passion!**
