@@ -4,12 +4,10 @@ Hi!
 
 My name is Jorge Alcubilla.
 
-I am a seasoned Finance Manager and Analyst with a bachelor´s degree in Cuantitative Analysis and a master´s in Finance Management.
+I am a seasoned business and financial analyst with solid education in quantitative analysis and data science.
 
-I love data analysis so, currently, I am studing a master´s in Data Science in order to improve my ability to help companies make the best business decisions.
+My broad technical knowledge and professional experience in different industries, provides me with the ability to combine deep data and analytics skills with strong business insight to: see all sides of a problem, take on business problems and bring effective solutions to any organization.
 
+Proud of having attended KSchool and received a master´s degree in Data Science.
 
-Regards,
-
-Jorge
-
+Data are my passion!
